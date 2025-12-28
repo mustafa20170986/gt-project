@@ -1,5 +1,5 @@
-const rn=document.getElementById("sbrn")
+const rn = document.getElementById("sbrn");
 
-rn.addEventListener("click",()=>{
-    console.log("clicked ")
-})
+rn.addEventListener("click", () => {
+  console.log("clicked ");
+});
